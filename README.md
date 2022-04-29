@@ -1,5 +1,5 @@
-*Exercise: Word Count Per Record
-**Write a new Kafka application WordCountPerLineApp (using Kafka Producer and Consumer APIs) that does the following:
+*Exercise: Word Count Per Record*
+**Write a new Kafka application WordCountPerLineApp (using Kafka Producer and Consumer APIs) that does the following:**
 
 1. Consumes records from a topic, e.g. input
 1. Counts words (in the value of a record)
